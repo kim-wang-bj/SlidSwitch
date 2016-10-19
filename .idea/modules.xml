@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlidSwitch.iml" filepath="$PROJECT_DIR$/SlidSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slid_switch/slid_switch.iml" filepath="$PROJECT_DIR$/slid_switch/slid_switch.iml" />
+    </modules>
+  </component>
+</project>

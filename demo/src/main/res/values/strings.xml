@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SlidSwitch</string>
+    <array name="texts">
+        <item>text1</item>
+        <item>text2</item>
+        <item>text3</item>
+        <item>text4</item>
+        <item>text5</item>
+        <item>text6</item>
+        <item>text7</item>
+        <item>text8</item>
+    </array>
+</resources>

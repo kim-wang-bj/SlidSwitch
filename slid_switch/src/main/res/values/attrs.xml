@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SlidSwitch">
+        <attr name="textLeft" format="string" />
+        <attr name="textCenter" format="string" />
+        <attr name="textRight" format="string" />
+        <attr name="textArray" format="reference" />
+        <attr name="switchButtonBackground" format="reference" />
+        <attr name="switchButtonTextColor" format="color" />
+        <attr name="switchButtonTextSize" format="dimension" />
+        <attr name="backgroundTextColor" format="color" />
+        <attr name="backgroundTextSize" format="dimension" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="backgroundCorners" format="dimension" />
+        <attr name="switchButtonColor" format="color" />
+        <attr name="switchButtonCorners" format="dimension" />
+        <attr name="switchButtonWidth" format="dimension" />
+        <attr name="dividerColor" format="color" />
+        <attr name="dividerPadding" format="dimension" />
+        <attr name="dividerWidth" format="dimension" />
+    </declare-styleable>
+</resources>
